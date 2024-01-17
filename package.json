@@ -1,0 +1,17 @@
+{
+  "name": "konnect-sdk",
+  "version": "1.0.0",
+  "description": "The Konnect Payment Library is a JavaScript library for handling payment-related operations using the Konnect API.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oussema Amri",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "typescript": "^5.3.3"
+  }
+}
